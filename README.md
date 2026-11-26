@@ -47,3 +47,5 @@ Suggestions, ideas, and feedback are welcome.
 ### Reddit: [Marggx](https://l.marggx.dev/reddit)
 
 ### YouTube: [Marggx](https://l.marggx.dev/yt)
+
+### Patreon: [Marggx](https://l.marggx.dev/patreon)
