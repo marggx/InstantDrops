@@ -1,7 +1,7 @@
 {
     "Group": "Marggx",
     "Name": "InstantDrops",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Description": "NPCs drop their loot instantly on death instead of waiting for the corpse to disappear.",
     "Authors": [
         {
